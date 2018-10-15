@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "npx knuckle lint-staged",
+    "commit-msg": "npx knuckle commitlint -E $HUSKY_GIT_PARAMS"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "tools": ["commitlint", "eslint", "husky", "lint-staged", "prettier"]
+}
