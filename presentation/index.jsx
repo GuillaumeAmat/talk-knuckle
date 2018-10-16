@@ -172,7 +172,7 @@ export default class Presentation extends React.Component {
               Add the <Code textSize={sizes.text}>eject</Code> command
             </ListItem>
             <ListItem>
-              Add a wizzard to the <Code textSize={sizes.text}>add</Code> command
+              Add a wizard to the <Code textSize={sizes.text}>add</Code> command
             </ListItem>
             <ListItem>&lt;Write your wishes here&gt;</ListItem>
           </List>
