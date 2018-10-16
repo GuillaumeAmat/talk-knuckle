@@ -180,7 +180,7 @@ export default class Presentation extends React.Component {
 
         <Slide>
           <Text textSize={sizes.text} margin={sizes.text}>
-            Merci
+            Thanks 👋
           </Text>
           <Text textSize={sizes.text}>
             <a href="https://github.com/GuillaumeAmat/knuckle">
