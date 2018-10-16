@@ -174,6 +174,9 @@ export default class Presentation extends React.Component {
             <ListItem>
               Add a wizard to the <Code textSize={sizes.text}>add</Code> command
             </ListItem>
+            <ListItem>
+              Add <Code textSize={sizes.text}>npm audit</Code> to the lint-staged jobs
+            </ListItem>
             <ListItem>&lt;Write your wishes here&gt;</ListItem>
           </List>
         </Slide>
