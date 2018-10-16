@@ -1,11 +1,12 @@
 import React from 'react';
 import { injectGlobal } from 'styled-components';
 
-import { BlockQuote, Code, Deck, List, Slide, Text } from 'spectacle';
+import { BlockQuote, Code, Deck, Slide, Text } from 'spectacle';
 import createTheme from 'spectacle/lib/themes/default';
 import 'normalize.css';
 
 import Heading from './Heading';
+import List from './List';
 import ListItem from './ListItem';
 import Quote from './Quote';
 import Cite from './Cite';
