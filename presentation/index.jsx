@@ -130,6 +130,18 @@ export default class Presentation extends React.Component {
         </Slide>
 
         <Slide>
+          <Heading size={2}>New option/command/feature?</Heading>
+        </Slide>
+
+        <Slide>
+          <Code textSize={sizes.text}>npm upgrade knuckle</Code>
+        </Slide>
+
+        <Slide>
+          <Code textSize={sizes.text}>npx knuckle up</Code>
+        </Slide>
+
+        <Slide>
           <Heading size={2}>Ejection?</Heading>
         </Slide>
 
